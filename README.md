@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishwarman-r-m-439028276/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nithishwarman005@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Nithishwarman&style=flat-square&color=70a5fd)
+![Profile Views](https://komarev.com/ghpvc/?username=nithishwarman005-glitch&style=flat-square&color=70a5fd)
 
 </div>
 
@@ -88,10 +88,10 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Nithishwarman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithishwarman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  <a href="https://github.com/Nithishwarman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishwarman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/nithishwarman005-glitch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithishwarman005-glitch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/nithishwarman005-glitch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishwarman005-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -100,7 +100,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nithishwarman&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=nithishwarman005-glitch&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -108,7 +108,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithishwarman&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithishwarman005-glitch&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -118,7 +118,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nithishwarman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithishwarman005-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -159,9 +159,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Thermal Imaging-Based Smart Monitoring System for Busbar Load Classification](https://github.com/Nithishwarman)** | Python · TensorFlow · OpenCV · Thermal Imaging | Built a deep learning system classifying busbar load conditions from infrared thermal images; achieved high classification accuracy distinguishing high-load vs low-load conditions in power distribution systems |
-| **[Coin Classification using Image Processing & ML](https://github.com/Nithishwarman)** | Kaggle · CNN · Image Processing | Trained a Convolutional Neural Network to classify coins by visual features, performing series identification followed by denomination prediction |
-| **[Online Ticket Booking System](https://github.com/Nithishwarman)** | Python | Built a Python-based web app for secure, scalable event ticket booking — supporting registration, real-time seat selection, secure payments, and instant booking confirmation under concurrent multi-user load |
+| **[Thermal Imaging-Based Smart Monitoring System for Busbar Load Classification](https://github.com/nithishwarman005-glitch)** | Python · TensorFlow · OpenCV · Thermal Imaging | Built a deep learning system classifying busbar load conditions from infrared thermal images; achieved high classification accuracy distinguishing high-load vs low-load conditions in power distribution systems |
+| **[Coin Classification using Image Processing & ML](https://github.com/nithishwarman005-glitch)** | Kaggle · CNN · Image Processing | Trained a Convolutional Neural Network to classify coins by visual features, performing series identification followed by denomination prediction |
+| **[Online Ticket Booking System](https://github.com/nithishwarman005-glitch)** | Python | Built a Python-based web app for secure, scalable event ticket booking — supporting registration, real-time seat selection, secure payments, and instant booking confirmation under concurrent multi-user load |
 
 </div>
 
